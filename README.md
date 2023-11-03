@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan Heru N. You can call me "friend"</h1>
 <img
-  src="https://drive.google.com/file/d/1PbfvtEEwj_KB6KmtBNSbCBAV5XNm0oJV/view?usp=drive_link"
+  src="OIG.IA.jpeg"
   alt=""
   srcset=""
 />
