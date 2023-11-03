@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **personal project** - 🌱 I’m currently learning
 **Python** - 👯 I’m looking to collaborate on **All Project** - 💬 Ask me about
 **laravel, php and javascript** - 📫 How to reach me **milanhn518@gmail.com** -
-⚡ Fun fact **I like Coffee and tea**
+⚡ Fun fact **I like Coffee and Matcha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
