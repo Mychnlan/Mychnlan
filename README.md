@@ -1,9 +1,10 @@
+<div align="center">
 <img
   src="https://github.com/Mychnlan/Mychnlan/blob/main/OIG.lA.jpeg?raw=true"
   alt="my source"
   width="100"
-  align="center"
 />
+</div>
 <h1 align="center">Hi 👋, I'm Milan Heru N. You can call me "friend"</h1>
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
