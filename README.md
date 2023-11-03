@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Milan Heru N. You can call me "friend"</h1>
-![Logo GitHub](https://github.com/Mychnlan/Mychnlan/blob/main/OIG.lA.jpeg?raw=true)
+<img
+  src="https://github.com/Mychnlan/Mychnlan/blob/main/OIG.lA.jpeg?raw=true"
+  alt=""
+  srcset=""
+/>
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **personal project** - 🌱 I’m currently learning
