@@ -1,5 +1,5 @@
 <style>
-  .round-image {
+  .rounded-img {
   width: 150px; 
   height: 150px; /
   border-radius: 50%; 
@@ -10,6 +10,7 @@
 <img
   src="https://github.com/Mychnlan/Mychnlan/blob/main/OIG.lA.jpeg?raw=true"
   alt="my source"
+  class="rounded-img"
 />
 </div>
 <h1 align="center">Hi 👋, I'm Milan Heru N. And You can call me "friend"</h1>
