@@ -1,16 +1,13 @@
-<style>
-  .round-img {
-  width: 150px; 
-  height: 150px; /
-  border-radius: 50%; 
-  object-fit: cover;
-}
-</style>
+
 <div align="center">
 <img
   src="https://github.com/Mychnlan/Mychnlan/blob/main/OIG.lA.jpeg?raw=true"
   alt="my source"
-  class="round-img"
+  style="
+  width: 150px; 
+  height: 150px; /
+  border-radius: 50%; 
+  object-fit: cover;"
 />
 </div>
 <h1 align="center">Hi 👋, I'm Milan Heru N. And You can call me "friend"</h1>
