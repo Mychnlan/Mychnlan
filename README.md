@@ -3,11 +3,7 @@
 <img
   src="https://github.com/Mychnlan/Mychnlan/blob/main/OIG.lA.jpeg?raw=true"
   alt="my source"
-  style="
-  width: 150px; 
-  height: 150px; 
-  border-radius: 50%; 
-  object-fit: cover;"
+  style="width: 150px; height: 150px; border-radius: 50%;"
 />
 </div>
 <h1 align="center">Hi 👋, I'm Milan Heru N. And You can call me "friend"</h1>
