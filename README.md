@@ -1,4 +1,22 @@
+<style>
+  .animation-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
 
+img {
+  width: 200px;
+  height: 200px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
 <div align="center">
 <img
   src="https://github.com/Mychnlan/Mychnlan/blob/main/OIG.lA.jpeg?raw=true"
