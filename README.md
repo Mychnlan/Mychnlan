@@ -97,7 +97,7 @@
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"
       alt="laravel"
       width="40"
       height="40"
