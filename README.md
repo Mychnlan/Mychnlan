@@ -6,7 +6,9 @@
 />
 </div>
 <h1 align="center">Hi 👋, I'm Milan Heru N. And You can call me "friend"</h1>
-<h3 align="center">A passionate Backend developer from Indonesia</h3>
+<h3 align="center">A passionate Backend developer from Indonesia
+<svg width="800px" height="800px" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--twemoji" preserveAspectRatio="xMidYMid meet"><path fill="#DC1F26" d="M32 5H4a4 4 0 0 0-4 4v9h36V9a4 4 0 0 0-4-4z"></path><path fill="#EEE" d="M36 27a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4v-9h36v9z"></path></svg>
+</h3>
 
 - 🔭 I’m currently working on **personal project** - 🌱 I’m currently learning
 **Next JS** - 👯 I’m looking to collaborate on **All Project** - 💬 Ask me about
