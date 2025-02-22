@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Milan Heru N. And You can call me Milan</h1>
+<h1 align="center">Hi 👋, I'm Milan Heru Nugroho</h1>
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **personal project** - 🌱 I’m currently learning
