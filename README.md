@@ -1,10 +1,4 @@
-<div align="center">
-<img
-  src="https://github.com/Mychnlan/Mychnlan/blob/main/OIG.lA.jpeg?raw=true"
-  alt="my source"
-  style="width: 150px; height: 150px; border-radius: 50px;"
-/>
-</div>
+
 <h1 align="center">Hi 👋, I'm Milan Heru N. And You can call me Milan</h1>
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
