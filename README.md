@@ -3,58 +3,89 @@
 
 ---
 
-### 🚀 About Me  
-- 🔭 Currently working on **personal projects**  
-- 🌱 Learning **Next.js** to expand my fullstack skills  
-- 👯 Open to collaborate on **any exciting projects**  
-- 💬 Ask me about **Laravel, PHP, and JavaScript**  
-- 📫 Reach me at **milanhn518@gmail.com**  
-- ⚡ Fun fact: I enjoy **Coffee & Matcha** while coding  
+## 👨‍💻 About Me
+
+- 🔭 Currently building personal projects and exploring backend & full-stack development  
+- 🌱 Learning Next.js and modern web architecture  
+- 🤝 Open to collaborating on meaningful and impactful projects  
+- 💬 Ask me about Laravel, PHP, JavaScript, and system design basics  
+- 📫 Reach me at: **milanhn518@gmail.com**  
+- ☕ Powered by coffee and matcha while coding  
 
 ---
 
-### 🌐 Connect With Me  
+## 🛠️ Tech Stack
+
+**Languages & Backend**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+**Frameworks**
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+</p>
+
+**Frontend**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+</p>
+
+**Database & Tools**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=milanhn518&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanhn518&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=milanhn518&theme=tokyonight&hide_border=false"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🧠 **Phishing Detection System**  
+  Machine learning-based system to detect and prevent phishing websites using adaptive models.
+
+- 🌐 **KONEKSIKU Platform**  
+  A collaborative platform for IT students to connect, collaborate, and manage projects.
+
+- 📊 **SPK Smartroad System**  
+  Decision Support System using SAW & AHP for road repair prioritization.
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
   <a href="https://instagram.com/milanhn518" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-         alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         height="30" width="40"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
-<p align="left">  
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
-         alt="Bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-         alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-         alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-         alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-         alt="Java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-         alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" 
-         alt="Laravel" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-         alt="MySQL" width="40" height="40"/> 
-  </a> 
-</p>
+## ☕ Fun Fact
+
+I enjoy building systems that solve real problems, especially in backend logic, decision systems, and intelligent detection systems.
