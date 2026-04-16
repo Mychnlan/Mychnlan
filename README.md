@@ -47,18 +47,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=milanhn518&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanhn518&layout=compact&theme=tokyonight" height="180"/>
-</p>
+</p> -->
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=milanhn518&theme=tokyonight&hide_border=false"/>
-</p>
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mychnlan&theme=tokyonight" alt="GitHub Streak" />
+</p> -->
 
 ---
 
@@ -67,8 +67,8 @@
 - 🧠 **Phishing Detection System**  
   Machine learning-based system to detect and prevent phishing websites using adaptive models.
 
-- 🌐 **KONEKSIKU Platform**  
-  A collaborative platform for IT students to connect, collaborate, and manage projects.
+- 🌐 **News Portal**  
+  A simple and flexible news management system where users can create and publish articles, and readers can view news through clean, SEO-friendly URLs using slugs. The system supports dynamic content management, making it easy to add, edit, and organize news articles efficiently.
 
 - 📊 **SPK Smartroad System**  
   Decision Support System using SAW & AHP for road repair prioritization.
