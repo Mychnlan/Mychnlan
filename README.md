@@ -64,8 +64,8 @@
 
 ## 🚀 Featured Projects
 
-- 🧠 **Phishing Detection System**  
-  Machine learning-based system to detect and prevent phishing websites using adaptive models.
+- 🔧 **Workshop App**  
+  A web application built using the Laravel framework to assist with booking motor vehicle services, providing progress notifications, and managing mechanics' work
 
 - 🌐 **News Portal**  
   A simple and flexible news management system where users can create and publish articles, and readers can view news through clean, SEO-friendly URLs using slugs. The system supports dynamic content management, making it easy to add, edit, and organize news articles efficiently.
