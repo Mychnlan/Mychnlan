@@ -1,91 +1,97 @@
-<h1 align="center">Hi 👋, I'm Milan Heru Nugroho</h1>
-<h3 align="center">Backend Developer | Problem Solver | Tech Enthusiast</h3>
+<div align="center">
+
+# ☕ Brewing Code: Milan Heru Nugroho 🍵
+
+<img src="https://komarev.com/ghpvc/?username=Mychnlan&color=6f4e37&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+
+### 🥷 Backend Developer | Problem Solver | Tech Enthusiast
+*Crafting robust systems, one cup of matcha at a time.*
 
 ---
 
-## 👨‍💻 About Me
+<p align="center">
+  <a href="#about-me">About Me</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#stats">Stats</a> •
+  <a href="#connect">Connect</a>
+</p>
 
-- 🔭 Currently building personal projects and exploring backend & full-stack development  
-- 🌱 Learning Next.js and modern web architecture  
-- 🤝 Open to collaborating on meaningful and impactful projects  
-- 💬 Ask me about Laravel, PHP, JavaScript, and system design basics  
-- 📫 Reach me at: **milanhn518@gmail.com**  
-- ☕ Powered by coffee and matcha while coding  
+</div>
+
+---
+
+## 🍵 About Me
+
+- 🔭 **Focus:** Currently building personal projects and exploring backend & full-stack development.
+- 🌱 **Learning:** Deep diving into **Next.js** and modern web architecture.
+- 🤝 **Collaboration:** Open to collaborating on meaningful and impactful projects.
+- 💬 **Ask Me About:** Laravel, PHP, Java, and system design basics.
+- ☕ **Fuel:** Powered by high-grade caffeine and ceremonial matcha.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Backend**
+### 🟫 Coffee Roasted (Backend & Languages)
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-**Frameworks**
+### 🟩 Matcha Blended (Frontend & Tools)
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
-
-**Frontend**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-</p>
-
-**Database & Tools**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Mychnlan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mychnlan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-</p> 
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mychnlan&theme=tokyonight&hide_border=true" alt="github stats"/>
-</p> 
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔧 **Workshop App**  
-  A web application built using the Laravel framework to assist with booking motor vehicle services, providing progress notifications, and managing mechanics' work
+> [!TIP]
+> ### 🔧 Workshop App
+> Aplikasi berbasis **Laravel** untuk manajemen booking service kendaraan, notifikasi progres, dan pengelolaan jadwal mekanik secara efisien.
 
-- 🌐 **News Portal**  
-  A simple and flexible news management system where users can create and publish articles, and readers can view news through clean, SEO-friendly URLs using slugs. The system supports dynamic content management, making it easy to add, edit, and organize news articles efficiently.
+> [!IMPORTANT]
+> ### 📊 SPK Smartroad System
+> Decision Support System menggunakan metode **SAW & AHP** untuk menentukan prioritas perbaikan jalan secara objektif.
 
-- 📊 **SPK Smartroad System**  
-  Decision Support System using SAW & AHP for road repair prioritization.
+> [!NOTE]
+> ### 🌐 News Portal
+> Sistem manajemen berita dinamis dengan fitur SEO-friendly URL (slug) dan dashboard admin yang intuitif.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mychnlan&theme=gruvbox&layout=compact&hide_border=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mychnlan&theme=gruvbox&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="mailto:milanhn518@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://instagram.com/milanhn518" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         height="30" width="40"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ☕ Fun Fact
-
-I enjoy building systems that solve real problems, especially in backend logic, decision systems, and intelligent detection systems.
+<p align="center">
+  <i>"Code is like coffee; it's better when it's filtered and balanced."</i><br>
+  📅 Last updated: May 2026
+</p>
