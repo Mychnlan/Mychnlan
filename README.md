@@ -9,18 +9,6 @@
 
 ---
 
-<p align="center">
-  <a href="#about-me">About Me</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#stats">Stats</a> •
-  <a href="#connect">Connect</a>
-</p>
-
-</div>
-
----
-
 ## 🍵 About Me
 
 - 🔭 **Focus:** Currently building personal projects and exploring backend & full-stack development.
