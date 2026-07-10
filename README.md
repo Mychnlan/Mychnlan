@@ -8,6 +8,7 @@
 *Crafting robust systems, one cup of matcha at a time.*
 
 ---
+</div>
 
 ## 🍵 About Me
 
